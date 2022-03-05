@@ -1,0 +1,43 @@
+{
+	"fileName": "id_1622116942594_304_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "",
+	"reference": "customer.ZMM_PPR_MAINST1",
+	"packageName": "$TMP",
+	"content": {
+		"fragmentPath": "fragments/CustomerData.fragment.xml",
+		"targetAggregation": "sections",
+		"index": 15
+	},
+	"selector": {
+		"id": "ui.s2p.mm.profrequisition.maintains1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseReqnItem--objectPage",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.profrequisition.maintains1/changes/",
+	"projectId": "customer.ZMM_PPR_MAINST1",
+	"creation": "2021-05-27T12:02:24.118Z",
+	"originalLanguage": "EN",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.71.29",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "7.0.1",
+		"from": "7.0.1",
+		"to": "7.0.1"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
